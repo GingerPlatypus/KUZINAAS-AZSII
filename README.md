@@ -9,6 +9,7 @@
 ## Практическая работа 4 - [Практика 4](https://github.com/GingerPlatypus/KUZINAAS-AZSII/tree/db2f062ee4e5d141e65d15b379fa6e384bf2c81b/Practic4)
 ## Практическая работа 5 - [Практика 5](https://github.com/GingerPlatypus/KUZINAAS-AZSII/tree/d25c1f48a201c0bef23e06b45c96411cca1f89df/Practic5)
 ## Практическая работа 6 - [Практика 6](https://github.com/GingerPlatypus/KUZINAAS-AZSII/tree/027ab76196c445ea32d1193eb40edba28a9cb546/Practic6)
+## Практическая работа 7 - [Практика 7](https://github.com/GingerPlatypus/KUZINAAS-AZSII/tree/c543c7a4a129efbb2fb0b22ec87eae4fce6b5ec9/Practic7)
 
 # Лабораторные работы:
 
