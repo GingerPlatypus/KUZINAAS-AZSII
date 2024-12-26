@@ -15,4 +15,5 @@
 # Лабораторные работы:
 
 ## Лабораторная работа 1 - [Лабораторная 1](https://github.com/GingerPlatypus/KUZINAAS-AZSII/tree/3f803e4864fa596c6c746794633b53ad719875eb/Lab1)
+## Лабораторная работа 2 - [Лабораторная 2](https://github.com/GingerPlatypus/KUZINAAS-AZSII/tree/37380b9ed9087040beb7e25badca1a952c54c2ae/Lab2)
 ## Лабораторная работа 3 - [Лабораторная 3](https://github.com/GingerPlatypus/KUZINAAS-AZSII/tree/0ba6b04d5f2d0d07a4b3279e7b8e705842836d5f/Lab3)
